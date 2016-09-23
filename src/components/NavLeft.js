@@ -12,7 +12,7 @@ class NavLeft extends React.Component {
                 </Link>
                 <Link activeStyle={{backgroundColor:'#333', color:'#fff',textDecoration:'none'}} to="/blog">
                     <span className="glyphicon glyphicon-eye-open" aria-hidden="true"></span>
-                    <span className="nav-left-span">Blogs</span>
+                    <span className="nav-left-span">Blog</span>
                 </Link>
                 <Link activeStyle={{backgroundColor:'#333', color:'#fff',textDecoration:'none'}} to="/work">
                     <span className="glyphicon glyphicon-calendar" aria-hidden="true"></span>
